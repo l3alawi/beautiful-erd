@@ -1,0 +1,31 @@
+.entityName {
+  fill: rgb(212, 157, 157);
+}
+
+.PKey {
+  fill: rgb(252, 252, 252);
+  stroke: red;
+  stroke-width: 3;
+  opacity: 0.5;
+}
+
+.FKey {
+  fill: rgb(252, 252, 252);
+  stroke: rgb(97, 202, 129);
+  stroke-width: 3;
+  opacity: 0.5;
+}
+
+.attribute {
+  fill: rgb(252, 252, 252);
+  stroke: rgb(30, 83, 255);
+  stroke-width: 3;
+  opacity: 0.5;
+}
+
+.attributeType {
+  fill: rgb(252, 252, 252);
+  stroke: rgb(27, 27, 27);
+  stroke-width: 3;
+  opacity: 0.5;
+}
