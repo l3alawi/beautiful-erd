@@ -7944,6 +7944,11 @@ pbkdf2@^3.0.3:
     safe-buffer "^5.0.1"
     sha.js "^2.4.8"
 
+perfect-arrows@^0.3.5:
+  version "0.3.5"
+  resolved "https://registry.yarnpkg.com/perfect-arrows/-/perfect-arrows-0.3.5.tgz#c115066014486fb1649d3a01f80db630fb4f5491"
+  integrity sha512-F7mPydcmQ40TG8HLi/WcVVo0Qf4r6/r1vhvVsF7y3OhoRv5CSX/6YahY2gm4+Nn54MaiIjCVBt/g26uzYvMdBQ==
+
 performance-now@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/performance-now/-/performance-now-2.1.0.tgz#6309f4e0e5fa913ec1c69307ae364b4b377c9e7b"
